@@ -52,6 +52,14 @@
 
 ---
 
+## 🏰 군타 (Gunta) — 미완
+
+> Unreal Engine 5로 제작한 프로젝트 (중단)
+
+<img src="images/gunta.webp" alt="군타 레벨 화면" width="520">
+
+---
+
 ## 📈 개발 과정
 
 1. **첫 Unreal 소울라이크 프로젝트 (중단):** Blueprint로 이동과 탈부착식 무기까지 구현했지만, 개발 순서를 정하지 못해 중단했습니다.
