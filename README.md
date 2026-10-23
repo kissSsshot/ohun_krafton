@@ -11,6 +11,8 @@
 
 > Unity와 C#으로 만든 턴제 전략 보드게임
 
+<img src="images/rabbit-janggi.png" alt="토끼장기 플레이 화면" width="420">
+
 | | |
 |---|---|
 | ▶ 플레이 (브라우저) | [itch.io에서 바로 플레이](https://kissssshot.itch.io/rabbit-jangqqi) |
@@ -35,6 +37,8 @@
 ## 🐦 DOYO (가제 TIDELAND) — 개발 중
 
 > 도요새가 갯벌에서 먹이를 찾는 탑뷰 캐주얼 포레이징 액션
+
+<img src="images/doyo-sandpiper.webp" alt="DOYO 도요새 캐릭터" width="360">
 
 | | |
 |---|---|
